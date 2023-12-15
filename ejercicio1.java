@@ -4,7 +4,8 @@ public class ejercicio1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
+//comentario añadido al inicio de la declaración de variables
 		
 		//arrays bidimensional de 5 x 5 
 		int [][] tabla = new int [5][5];
